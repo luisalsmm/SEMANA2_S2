@@ -9,8 +9,8 @@
     1.2. Self-Closing
         Estas son algunas etiquetas que no necesitan cierre, ejemplo. <img />
     1.3. de Bloque o en línea
-        Ejemplo de etiqueta de bloque <h1> esta ocupa todo el espacio del bloque, aunque no lo necesite.
-        Ejemplo de etiqueta en línea <span> esta ocupa solo el espacio que ocupa la palabra, pudiendo colocarse varias etiquetas de tipo span una al costado de otra.
+        Ejemplo de etiqueta de bloque <h1></h1> esta ocupa todo el espacio del bloque, aunque no lo necesite.
+        Ejemplo de etiqueta en línea <span></span> esta ocupa solo el espacio que ocupa la palabra, pudiendo colocarse varias etiquetas de tipo span una al costado de otra.
     
 2. Atributos 
     Otra caracteristica de las etiquetas es que pueden tener atributos y cada atributo contendra un valor de dicho atributo. algunos de tipo opcional y otros de forma obligatoria. ejemplo:
@@ -21,4 +21,4 @@
    <img src="ruta" alt="mensaje de accesibilidad" />
 
 3. Encabezados
-    Los encabezados son etiquetas que nos sirven para insertar titulos o subtitulos siguiendo una jerarquia y reglas. Siendo la jerarquia mas importante <h1> y considerando que solo puede existir un <h1> en un codigo. Ejemplo <h1><h2>...<h6>
+    Los encabezados son etiquetas que nos sirven para insertar titulos o subtitulos siguiendo una jerarquia y reglas. Siendo la jerarquia mas importante <h1></h1> y considerando que solo puede existir un h1 en un codigo. Ejemplo h1, h2...h6
